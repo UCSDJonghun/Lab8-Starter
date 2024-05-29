@@ -1,8 +1,8 @@
 {
     "name": "cse100lab8",
     "short_name": "Jonghun",
-    "description": "",
-    "start_url": "",
+    "description": "PWA",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#FFC0CB",
     "theme_color": "#FFC0CB",
